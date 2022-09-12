@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://satyamchouksey.github.io/csb-3znqtv/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://satyamchouksey.github.io/csb-3znqtv/static/js/main.ba9bbbcd.chunk.js",
+    "main.js.map": "https://satyamchouksey.github.io/csb-3znqtv/static/js/main.ba9bbbcd.chunk.js.map",
+    "runtime-main.js": "https://satyamchouksey.github.io/csb-3znqtv/static/js/runtime-main.78a0ed0d.js",
+    "runtime-main.js.map": "https://satyamchouksey.github.io/csb-3znqtv/static/js/runtime-main.78a0ed0d.js.map",
+    "static/js/2.b1dddb70.chunk.js": "https://satyamchouksey.github.io/csb-3znqtv/static/js/2.b1dddb70.chunk.js",
+    "static/js/2.b1dddb70.chunk.js.map": "https://satyamchouksey.github.io/csb-3znqtv/static/js/2.b1dddb70.chunk.js.map",
+    "index.html": "https://satyamchouksey.github.io/csb-3znqtv/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://satyamchouksey.github.io/csb-3znqtv/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b1dddb70.chunk.js.LICENSE.txt": "https://satyamchouksey.github.io/csb-3znqtv/static/js/2.b1dddb70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78a0ed0d.js",
+    "static/js/2.b1dddb70.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ba9bbbcd.chunk.js"
+  ]
+}
